@@ -1,0 +1,55 @@
+h1 {
+    font-family: Georgia;
+    font-weight: bold;
+    text-align: center;
+    color: slategrey;
+    opacity: 1.0;
+    font-size: 45px;
+}
+
+strong {
+    font-weight: bold;
+    opacity: 0.7;
+    font-family: Courier;
+    font-size: 30px;
+}
+
+body {
+    color: white;
+    background-image: url("https://images.hdqwalls.com/download/cyborg-4k-y8-1366x768.jpg");
+    background-position: top;
+}
+
+p {
+    text-align: center;
+    font-family: Courier;
+    font-size: 20px;
+}
+
+ul, li {
+    font-family: Courier;
+    font-size: 15px;
+}
+
+h2 {
+    font-family: Courier;
+    opacity: 0.7;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+table {
+    color: slategrey;
+    font-size: 20px;
+    text-align: center;
+    float: right;
+}
+
+.tabletop {
+    color: white;
+}
+
+a {
+    color:lightskyblue
+}
